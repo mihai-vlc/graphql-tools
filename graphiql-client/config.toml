@@ -1,0 +1,7 @@
+[server]
+port = 3005
+
+[proxy]
+url = "https://swapi-graphql.netlify.app/.netlify/functions/index"
+
+
